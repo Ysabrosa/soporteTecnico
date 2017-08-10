@@ -131,15 +131,15 @@ body{
  }
  footer p{
     font-size: 12px;
-    padding-top:30px;
-    padding-bottom: 30px;
  }
  footer a{
     font-size: 25px;
     color: white;
     text-decoration:none;
     transition: all .5s ease;
-
+ }
+ .redes-footer{
+    padding-top: 20px;
  }
  footer a:hover{
     color: white;
