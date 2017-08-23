@@ -133,6 +133,7 @@ body{
 
     font-size: 12px;
  }
+
  footer a{
     font-size: 25px;
     color: white;
@@ -142,6 +143,7 @@ body{
  .redes-footer{
     padding-top: 20px;
  }
+
  footer a:hover{
     color: white;
     font-size: 28px;
@@ -157,7 +159,10 @@ i.fa{
 	font-size: 20px;
 }
 
-
+.navbar-brand img{
+	height: 50px;
+	width:300px;
+}
 
 
 
