@@ -130,6 +130,7 @@ body{
     background-color:#e65c00;
  }
  footer p{
+
     font-size: 12px;
  }
  footer a{
@@ -153,6 +154,7 @@ body{
 
 i.fa{
 	margin-right: 5px;
+	font-size: 20px;
 }
 
 
