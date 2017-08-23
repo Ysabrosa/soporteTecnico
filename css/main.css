@@ -148,9 +148,12 @@ body{
 
  iframe{
     height: 300px;
-    float: right;
+   
  }
 
+i.fa{
+	margin-right: 5px;
+}
 
 
 
